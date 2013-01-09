@@ -30,12 +30,12 @@ Radiosity.exe --file=cornell_box.obj --area=0.001
 
 ## 操作说明
 
-   1    GL_POINTS显示 
-   2    GL_LINES显示
-   3    GL_TRIANGES显示
-   w    fovy减小
-   s    fovy变大
-   p    截图
+   *    按键1    GL_POINTS显示 
+   *    按键2    GL_LINES显示
+   *    按键3    GL_TRIANGES显示
+   *    按键w    fovy减小
+   *    按键s    fovy变大
+   *    按键p    截图
 
 ## 编程环境
 
